@@ -46,6 +46,20 @@ my curiosity.
   the Blasius fluid dynamic boundary layer problem.
 - [Programming Project: "Blaf Game Engine"](https://github.com/kunzaatko/blaf): An implementation of the "blaf" game in
   C++ (incomplete).
+- [Course work: "Inverse Problems and Imaging"](https://github.com/kunzaatko/InverseProblemsAndImaging): Course work,
+  homework and reports for the course with implementations, tests and analysis of the algorithms presented with figure
+  scripts
+- [Course work: "Programming in MATLAB"](https://github.com/kunzaatko/ProgrammingInMatlab): Course final projects in
+  MATLAB
+- [Talk Slides: "Backpropagation: The Backbone of Deep Learning"](https://github.com/kunzaatko/BackPropagationSlides):
+  An exploration and analysis of the learning process for two deep learning examples and slides to accompany a talk
+  about the backpropagation algorithm.
+- [Course work: "Systems Reliability and Clinical
+  Experiments"](https://github.com/kunzaatko/SystemsReliabilityAndClinicalExperiments): Final projects for the course
+  including estimation with data censoring (for clinical experiments) and analysis of a model system reliability
+- [Course project: "Niger River Flooding Hazard"](https://github.com/kunzaatko/NigerRiverFloodAnalysis): Final project
+  for the course "Modeling of Extremal Events" analysing the flooding hazard of the river Niger and estimating the flood
+    hazard levels and the water flow rate probability distribution
 
 <!--
 **kunzaatko/kunzaatko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
