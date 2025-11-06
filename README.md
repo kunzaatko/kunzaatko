@@ -31,9 +31,6 @@ my curiosity.
   a boundary layer problem that occurs in the article by [Clark et. al.
   (2023)](https://epubs.siam.org/doi/10.1137/21M1436087) with phase image vector field and other visualizations and an
   interactive slide presentation done via [`Pluto.jl`](https://github.com/fonsp/Pluto.jl).
-- [Programming Project: "Iterated Function Fractals"](https://github.com/kunzaatko/IteratedFunctionFractals): An
-  implementation of [L-system](https://en.wikipedia.org/wiki/L-system) defined fractal drawing using turtle graphics
-  implemented in C.
 - [Research Project: "Reactive Diffusion"](https://github.com/kunzaatko/ReactiveDiffusion): An exploration of the Fisher
   diffusion equation with a reactive term simulating the Allee effect mathematically analysed and simulated. Such an
   equation can be used as a simplified 1D model of population migration.
@@ -44,8 +41,6 @@ my curiosity.
 - [Term Project: "Blasius Solution by the Target Shooting Method"](https://github.com/kunzaatko/FluidBoundaryLayer): An
   exploration and implementation of the numerical _shot on target_ differential equation solver method and its use on
   the Blasius fluid dynamic boundary layer problem.
-- [Programming Project: "Blaf Game Engine"](https://github.com/kunzaatko/blaf): An implementation of the "blaf" game in
-  C++ (incomplete).
 - [Course work: "Inverse Problems and Imaging"](https://github.com/kunzaatko/InverseProblemsAndImaging): Course work,
   homework and reports for the course with implementations, tests and analysis of the algorithms presented with figure
   scripts
@@ -60,6 +55,11 @@ my curiosity.
 - [Course project: "Niger River Flooding Hazard"](https://github.com/kunzaatko/NigerRiverFloodAnalysis): Final project
   for the course "Modeling of Extremal Events" analysing the flooding hazard of the river Niger and estimating the flood
     hazard levels and the water flow rate probability distribution
+- [Programming Project: "Iterated Function Fractals"](https://github.com/kunzaatko/IteratedFunctionFractals): An
+  implementation of [L-system](https://en.wikipedia.org/wiki/L-system) defined fractal drawing using turtle graphics
+  implemented in C.
+- [Programming Project: "Blaf Game Engine"](https://github.com/kunzaatko/blaf): An implementation of the "blaf" game in
+  C++ (incomplete).
 
 <!--
 **kunzaatko/kunzaatko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
